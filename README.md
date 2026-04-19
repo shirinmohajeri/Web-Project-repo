@@ -40,5 +40,4 @@ The goal of these projects is to demonstrate my ability to build functional and 
 Shirin Mohajeri  
 Email: shirin.mohajeri6b8@yahoo.com  
 GitHub: https://github.com/shirinmohajeri/
-
 Linkdin: www.linkedin.com/in/shirin-mohajeri
